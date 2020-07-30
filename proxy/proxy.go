@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/canhtuan97/magentos/proto/cart"
-	"github.com/canhtuan97/magentos/proto/customer"
+	"github.com/canhtuan97/magento/proto/cart"
+	"github.com/canhtuan97/magento/proto/customer"
 	"log"
 	"net/http"
 

@@ -3,8 +3,8 @@ package customer
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/canhtuan97/magentos/connector"
-	"github.com/canhtuan97/magentos/proto/customer"
+	"github.com/canhtuan97/magento/connector"
+	"github.com/canhtuan97/magento/proto/customer"
 	"log"
 	"net/http"
 )

@@ -1,8 +1,8 @@
 package cart
 
 import (
-	"github.com/canhtuan97/magentos/connector"
-	"github.com/canhtuan97/magentos/proto/cart"
+	"github.com/canhtuan97/magento/connector"
+	"github.com/canhtuan97/magento/proto/cart"
 	"log"
 )
 
